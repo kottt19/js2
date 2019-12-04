@@ -1,0 +1,13 @@
+{
+  "users": [
+    {"id": 1, "name":  "Vasya"},
+    {"id": 2, "name":  "Petya"}
+  ],
+  "goods": [
+    {"id": 1, "name":  "Трусы", "price": "255", "sel":  "reu"},
+    {"id": 2, "name":  "Майки", "price": "100", "sel":  "reu"},
+    {"id": 3, "name":  "Носки", "price": "150", "sel":  "reu"},
+    {"id": 4, "name":  "Шапки", "price": "567", "sel":  "reu"}
+  ],
+  "cart": []
+}
